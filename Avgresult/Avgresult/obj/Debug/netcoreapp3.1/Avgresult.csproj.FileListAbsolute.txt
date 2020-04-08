@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\bin\Debug\netcoreapp3.1\Avgresult.exe
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\bin\Debug\netcoreapp3.1\Avgresult.deps.json
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\bin\Debug\netcoreapp3.1\Avgresult.runtimeconfig.json
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\bin\Debug\netcoreapp3.1\Avgresult.runtimeconfig.dev.json
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\bin\Debug\netcoreapp3.1\Avgresult.dll
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\bin\Debug\netcoreapp3.1\Avgresult.pdb
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\obj\Debug\netcoreapp3.1\Avgresult.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\obj\Debug\netcoreapp3.1\Avgresult.AssemblyInfo.cs
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\obj\Debug\netcoreapp3.1\Avgresult.dll
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Avgresult\Avgresult\obj\Debug\netcoreapp3.1\Avgresult.pdb

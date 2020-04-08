@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.exe
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.deps.json
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.runtimeconfig.json
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.runtimeconfig.dev.json
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.dll
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.pdb
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.AssemblyInfo.cs
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.dll
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.pdb

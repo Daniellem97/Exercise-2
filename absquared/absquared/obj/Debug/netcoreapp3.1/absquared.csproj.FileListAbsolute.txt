@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\bin\Debug\netcoreapp3.1\absquared.exe
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\bin\Debug\netcoreapp3.1\absquared.deps.json
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\bin\Debug\netcoreapp3.1\absquared.runtimeconfig.json
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\bin\Debug\netcoreapp3.1\absquared.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\bin\Debug\netcoreapp3.1\absquared.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\bin\Debug\netcoreapp3.1\absquared.pdb
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\obj\Debug\netcoreapp3.1\absquared.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\obj\Debug\netcoreapp3.1\absquared.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\obj\Debug\netcoreapp3.1\absquared.AssemblyInfo.cs
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\obj\Debug\netcoreapp3.1\absquared.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\absquared\absquared\obj\Debug\netcoreapp3.1\absquared.pdb

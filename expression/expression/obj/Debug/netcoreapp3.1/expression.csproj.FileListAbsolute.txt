@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\bin\Debug\netcoreapp3.1\expression.exe
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\bin\Debug\netcoreapp3.1\expression.deps.json
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\bin\Debug\netcoreapp3.1\expression.runtimeconfig.json
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\bin\Debug\netcoreapp3.1\expression.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\bin\Debug\netcoreapp3.1\expression.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\bin\Debug\netcoreapp3.1\expression.pdb
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\obj\Debug\netcoreapp3.1\expression.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\obj\Debug\netcoreapp3.1\expression.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\obj\Debug\netcoreapp3.1\expression.AssemblyInfo.cs
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\obj\Debug\netcoreapp3.1\expression.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\expression\expression\obj\Debug\netcoreapp3.1\expression.pdb

@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\bin\Debug\netcoreapp3.1\2INTEGERS++.exe
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\bin\Debug\netcoreapp3.1\2INTEGERS++.deps.json
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\bin\Debug\netcoreapp3.1\2INTEGERS++.runtimeconfig.json
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\bin\Debug\netcoreapp3.1\2INTEGERS++.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\bin\Debug\netcoreapp3.1\2INTEGERS++.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\bin\Debug\netcoreapp3.1\2INTEGERS++.pdb
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\obj\Debug\netcoreapp3.1\2INTEGERS++.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\obj\Debug\netcoreapp3.1\2INTEGERS++.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\obj\Debug\netcoreapp3.1\2INTEGERS++.AssemblyInfo.cs
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\obj\Debug\netcoreapp3.1\2INTEGERS++.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\2INTEGERS++\2INTEGERS++\obj\Debug\netcoreapp3.1\2INTEGERS++.pdb

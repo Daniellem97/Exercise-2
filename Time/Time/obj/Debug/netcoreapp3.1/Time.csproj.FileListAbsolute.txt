@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\bin\Debug\netcoreapp3.1\Time.exe
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\bin\Debug\netcoreapp3.1\Time.deps.json
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\bin\Debug\netcoreapp3.1\Time.runtimeconfig.json
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\bin\Debug\netcoreapp3.1\Time.runtimeconfig.dev.json
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\bin\Debug\netcoreapp3.1\Time.dll
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\bin\Debug\netcoreapp3.1\Time.pdb
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\obj\Debug\netcoreapp3.1\Time.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\obj\Debug\netcoreapp3.1\Time.AssemblyInfo.cs
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\obj\Debug\netcoreapp3.1\Time.dll
+C:\Users\danie\Desktop\College\Exercise 2. Programming\Time\Time\obj\Debug\netcoreapp3.1\Time.pdb

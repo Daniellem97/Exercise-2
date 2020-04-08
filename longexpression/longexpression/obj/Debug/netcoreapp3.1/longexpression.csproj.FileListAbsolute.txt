@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\bin\Debug\netcoreapp3.1\longexpression.exe
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\bin\Debug\netcoreapp3.1\longexpression.deps.json
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\bin\Debug\netcoreapp3.1\longexpression.runtimeconfig.json
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\bin\Debug\netcoreapp3.1\longexpression.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\bin\Debug\netcoreapp3.1\longexpression.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\bin\Debug\netcoreapp3.1\longexpression.pdb
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\obj\Debug\netcoreapp3.1\longexpression.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\obj\Debug\netcoreapp3.1\longexpression.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\obj\Debug\netcoreapp3.1\longexpression.AssemblyInfo.cs
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\obj\Debug\netcoreapp3.1\longexpression.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\longexpression\longexpression\obj\Debug\netcoreapp3.1\longexpression.pdb
